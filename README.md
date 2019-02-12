@@ -1,2 +1,0 @@
-# XAIP
-Explainable Planning
