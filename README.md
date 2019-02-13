@@ -1,4 +1,4 @@
 # XAIP Workshops
-Explainable Planning Workhops
+An up-to-date repository for eXplainable Artificial Intelligence Planning (XAIP) Workhops
 
-Full description on the project website: https://kcl-planning.github.io/XAIP-Workshops/
+Information on workshops and related work can be found on the website: https://kcl-planning.github.io/XAIP-Workshops/
